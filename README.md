@@ -30,8 +30,11 @@ To run the project locally, follow these steps:
 The project uses the following libraries:
 
 requests: For making HTTP requests to retrieve the website's content.
+
 pandas: For creating and manipulating the DataFrame that stores the scraped data.
+
 BeautifulSoup: For parsing the HTML content and extracting relevant information.
+
 Selenium: For automated browsing and retrieving the updated HTML content after AJAX requests.
 
 The website used for scraping in this project is ScrapeThisSite, which provides an example of a site that loads 
